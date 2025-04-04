@@ -23,7 +23,7 @@
 <img src="https://cdn.dribbble.com/userupload/23681047/file/original-d6517f1e2cc5829933ba69ca77010944.gif" alt="A person Do Coding " width="1000" height="400">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="/pulak-pramanik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pulak-pramanik/" height="30" width="40" /></a>
+<a href="pulak-pramanik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pulak-pramanik/" height="30" width="40" /></a>
 <a href="https://instagram.com/pulak_pramanik3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pulak_pramanik3/" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/https://www.codechef.com/users/pulak_pramanik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/pulak_pramanik" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/pulakkantiprama1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/pulakkantiprama1" height="30" width="40" /></a>
