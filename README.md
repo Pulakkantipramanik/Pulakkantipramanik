@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/uc?export=view&id=1Qq8LLaUgZK-Mq6dTEqSRkkIKJafmXe97" alt="Pulak Image" width="1000" height="400">
+<img src="https://drive.google.com/uc?export=view&id=1Qq8LLaUgZK-Mq6dTEqSRkkIKJafmXe97" alt="Pulak Image" width="1000" height="300">
 <h1 align="center">Hi 👋, I'm Pulak Kanti Pramanik</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
