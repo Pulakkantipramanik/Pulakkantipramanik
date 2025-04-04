@@ -20,7 +20,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/10KyqZ8enpke_LyDjXKiskAwPCcnmEEHa/view?usp=sharing](https://drive.google.com/file/d/10KyqZ8enpke_LyDjXKiskAwPCcnmEEHa/view?usp=sharing)
 
-<img src="https://cdn.dribbble.com/userupload/23681047/file/original-d6517f1e2cc5829933ba69ca77010944.gif" alt="A person Do Coding " width="300" height="300">
+<img src="https://cdn.dribbble.com/userupload/23681047/file/original-d6517f1e2cc5829933ba69ca77010944.gif" alt="A person Do Coding " width="1000" height="400">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/pulak-pramanik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pulak-pramanik/" height="30" width="40" /></a>
