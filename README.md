@@ -1,7 +1,7 @@
 <img src="https://drive.google.com/uc?export=view&id=1Qq8LLaUgZK-Mq6dTEqSRkkIKJafmXe97" alt="Pulak Image" width="1000" height="400">
 <h1 align="center">Hi 👋, I'm Pulak Kanti Pramanik</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img src="https://cdn.dribbble.com/userupload/23681047/file/original-d6517f1e2cc5829933ba69ca77010944.gif" alt="A person Do Coding " width="300" height="300">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pulakkantipramanik&label=Profile%20views&color=0e75b6&style=flat" alt="pulakkantipramanik" /> </p>
@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Microservice ,Angular**
 
-- 🤝 I’m looking for help with **Job**
+- 🤝 I’m looking for  **Job**
 
 - 👨‍💻 All of my projects are available at [https://portfoliopulak.netlify.app/](https://portfoliopulak.netlify.app/)
 
@@ -20,6 +20,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/10KyqZ8enpke_LyDjXKiskAwPCcnmEEHa/view?usp=sharing](https://drive.google.com/file/d/10KyqZ8enpke_LyDjXKiskAwPCcnmEEHa/view?usp=sharing)
 
+<img src="https://cdn.dribbble.com/userupload/23681047/file/original-d6517f1e2cc5829933ba69ca77010944.gif" alt="A person Do Coding " width="300" height="300">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/pulak-pramanik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pulak-pramanik/" height="30" width="40" /></a>
