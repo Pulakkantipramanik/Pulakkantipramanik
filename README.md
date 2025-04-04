@@ -1,8 +1,8 @@
-
+<img src="https://drive.google.com/uc?export=view&id=1Qq8LLaUgZK-Mq6dTEqSRkkIKJafmXe97" alt="Pulak Image" width="1000" height="400">
 <h1 align="center">Hi 👋, I'm Pulak Kanti Pramanik</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img src="https://cdn.dribbble.com/userupload/23681047/file/original-d6517f1e2cc5829933ba69ca77010944.gif" alt="A person Do Coding " width="1000" height="400">
-<img src="https://drive.google.com/file/d/1Qq8LLaUgZK-Mq6dTEqSRkkIKJafmXe97/view?usp=sharing" alt="Pulak Image " width="500" height="600">
+<img src="https://cdn.dribbble.com/userupload/23681047/file/original-d6517f1e2cc5829933ba69ca77010944.gif" alt="A person Do Coding " width="300" height="300">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pulakkantipramanik&label=Profile%20views&color=0e75b6&style=flat" alt="pulakkantipramanik" /> </p>
 
